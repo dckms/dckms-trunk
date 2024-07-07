@@ -83,6 +83,29 @@ Technical Debt и сложный процент
 
     -- `Martin Fowler <https://twitter.com/martinfowler/status/1517152168775614473?t=BMpST8vXSLBnY36k9o-lUg&s=19>`__
 
+..
+
+    💬 To justify this work, Cunningham needed to explain that if the team didn’t make adjustments to the software to match their increased learning about the problem domain, they would continue to stumble over the disagreement between the software that existed and their current, refined understanding.
+    **In turn, the continued stumbling would slow down the team’s progress on continued development, which is like paying interest on a loan. Thus, the debt metaphor was born.**
+
+    Anyone can borrow money to enable them to do things sooner than if they hadn’t obtained the money.
+    Of course, as long as the loan exists, the borrower will be paying interest.
+    The primary idea in taking on debt in the software is to be able to release sooner, but with the idea that you must pay the debt sooner rather than later.
+    The debt is paid by refactoring the software to reflect the team’s newly acquired knowledge of the business needs.
+    In the industry at that time, just as it is today, software was rushed out to users knowing that debt existed, but too often teams had the idea that you never have to pay off the debt.
+
+    Of course, we all know what happens next.
+    **If debt continues to stack up and the person borrows more and more, all the borrower’s money goes to paying interest and they reach a point where they have zero buying power.**
+    Matters work the same way with software debt, because eventually developers deep in debt will be severely compromised.
+    Adding new features will take longer and longer, to the point where the team will make almost no progress.
+
+    One of the major problems with the contemporary understanding of the debt metaphor is that many developers think this metaphor supports deliberately delivering poorly designed and implemented software so as to deliver sooner.
+    Yet, the metaphor doesn’t support that practice.
+    Attempting that feat is more like borrowing on subprime loans3 with upward adjustable interest rates, which often results in the borrower becoming financially overextended to the point of defaulting.
+    Debt is useful only as long as it is controlled; otherwise, it creates instability within the entire system.
+
+    -- "Strategic Monoliths and Microservices: Driving Innovation Using Purposeful Architecture" by Vaughn Vernon
+
 .. seealso::
 
    - ":ref:`emacsway-architecture-options`"

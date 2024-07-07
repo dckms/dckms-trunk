@@ -427,6 +427,7 @@ API-Design
 - "`Good Practices for Capability URLs <https://w3ctag.github.io/capability-urls/>`__", W3C Draft
 - "`Web API Design - Crafting Interfaces that Developers Love <https://pages.apigee.com/rs/apigee/images/api-design-ebook-2012-03.pdf>`__"
 - "`REST vs. GraphQL: A Critical Review <https://goodapi.co/blog/rest-vs-graphql>`__"
+- "`Why, after 6 years, I’m over GraphQL <https://bessey.dev/blog/2024/05/24/why-im-over-graphql/>`__" by Matt Bessey
 - "`5 reasons you shouldn't be using GraphQL <https://blog.logrocket.com/5-reasons-you-shouldnt-be-using-graphql-61c7846e7ed3/?gi=f67074d77004>`__" (`перевод на Русский <https://medium.com/devschacht/esteban-herrera-5-reasons-you-shouldnt-use-graphql-bae94ab105bc>`__)
 - "`OpenAPIs <https://www.openapis.org/>`__"
 - "`AsyncAPI <https://www.asyncapi.com/>`__"
@@ -441,6 +442,7 @@ API-Design
 - "`CRUD, only when you can afford it (Revisited) <https://blogs.msdn.microsoft.com/maarten_mullender/2004/07/23/crud-only-when-you-can-afford-it-revisited/>`__" by Maarten Mullender
 - "`CQRS and DDD patterns are not top-level architectures <https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/eshoponcontainers-cqrs-ddd-microservice#cqrs-and-ddd-patterns-are-not-top-level-architectures>`__"
 - "`The API <https://twirl.github.io/The-API-Book/index.ru.html>`__" by Sergey Konstantinov (`Source Code <https://github.com/twirl/The-API-Book>`__, `English <https://twirl.github.io/The-API-Book/index.html>`__)
+- "`OpenAPI Governance Templates <https://www.postman.com/postman/workspace/postman-open-technologies-openapi-governance-templates/overview>`__" by Postman Open Technologies
 
 
 Event Storming
@@ -527,7 +529,7 @@ Scaled Agile
 - "Scaling Software Agility: Best Practices for Large Enterprises" by Dean Leffingwell
 - "Agile Software Requirements: Lean Requirements Practices for Teams, Programs, and the Enterprise" by Dean Leffingwell
 - "SAFe® 5.0: The World's Leading Framework for Business Agility" by Richard Knaster, Dean Leffingwell
-- "Large-Scale Scrum: More with LeSS" by Craig Larman
+- "Large-Scale Scrum: More with LeSS" by Craig Larman, Bas Vodde
 - "`LeSS <https://less.works/less/framework/introduction>`__" (`перевод на Русский <https://less.works/ru/less/framework/introduction>`__)
 - "`Agile Practice Guide <https://www.pmi.org/pmbok-guide-standards/practice-guides/agile>`__" by Project Management Institute
 - "`Disciplined Agile® <https://www.pmi.org/disciplined-agile>`__"

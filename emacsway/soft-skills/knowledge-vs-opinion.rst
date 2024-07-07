@@ -114,6 +114,12 @@
     -- Mike Cohn, "`My Favorite Resource for Agile Advice, Support, and Answers <https://www.mountaingoatsoftware.com/blog/my-favorite-resource-for-agile-advice-support-and-answers>`__".
     Isaac Newton wrote in a 1675 letter to fellow scientist Robert Hooke.
 
+..
+
+    💬 "Открытие новой теории подобно восхождению на гору, когда взору открываются новая и более широкая панорама."
+
+    -- Альберт Эйнштейн
+
 
 Решение
 =======
