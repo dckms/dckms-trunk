@@ -63,9 +63,13 @@
 - "`Принцип YAGNI <http://sergeyteplyakov.blogspot.com/2016/08/yagni.html>`__" / Сергей Тепляков
 - "`О повторном использовании кода <http://sergeyteplyakov.blogspot.com/2012/04/blog-post_19.html>`__" / Сергей Тепляков
 - "`Systems thinking <https://less.works/less/principles/systems-thinking.html>`__" (`на русском <https://less.works/ru/less/principles/systems-thinking.html>`__)
+- "Large-Scale Scrum: More with LeSS" 1st Edition by Craig Larman, Bas Vodde
 - "`Modifiability <https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=8299>`__"
 - "`Making Architecture Matter - Martin Fowler Keynote <https://youtu.be/DngAZyWMGR0>`__" - превосходное 14-ти минутное видео.
 - "`Comparing Maintainability Index, SIG Method, and SQALE for Technical Debt Identification <https://doi.org/10.1155/2020/2976564>`__" by Peter Strecansky, Stanislav Chren, and Bruno Rossi
+- "Managing Technical Debt: Reducing Friction in Software Development" by Philippe Kruchten, Robert Nord, Ipek Ozkaya
+- "Software Engineering Economics" 1st edition by Barry W. Boehm
+- "Economics-Driven Software Architecture" by Ivan Mistrik, Rami Bahsoon, Rick Kazman, Yuanyuan Zhang
 
 
 .. seealso::
